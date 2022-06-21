@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.utils.bean;
+package com.baidu.mapapi.utils.bean;
 
 import com.baidu.mapapi.model.LatLng;
 

@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.utils;
+package com.baidu.mapapi.utils;
 
 /**
  * 与flutter通信的methodID

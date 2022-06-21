@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.utils.coverter;
+package com.baidu.mapapi.utils.coverter;
 
 import java.util.Map;
 
