@@ -42,17 +42,14 @@ android {
     }
     lintOptions {
         disable 'InvalidPackage'
+        abortOnError false
+        checkReleaseBuilds false
     }
 
     sourceSets {
         main{
             jniLibs.srcDirs 'jniLibs'
         }
-    }
-
-    lintOptions {
-        abortOnError false
-        checkReleaseBuilds false
     }
 
 }
